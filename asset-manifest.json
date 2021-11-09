@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/store_from_21-lesson/static/css/main.9c60dedd.chunk.css",
+    "main.js": "/store_from_21-lesson/static/js/main.511ea445.chunk.js",
+    "main.js.map": "/store_from_21-lesson/static/js/main.511ea445.chunk.js.map",
+    "runtime-main.js": "/store_from_21-lesson/static/js/runtime-main.36135a66.js",
+    "runtime-main.js.map": "/store_from_21-lesson/static/js/runtime-main.36135a66.js.map",
+    "static/js/2.26a4bd87.chunk.js": "/store_from_21-lesson/static/js/2.26a4bd87.chunk.js",
+    "static/js/2.26a4bd87.chunk.js.map": "/store_from_21-lesson/static/js/2.26a4bd87.chunk.js.map",
+    "static/js/3.4ce83650.chunk.js": "/store_from_21-lesson/static/js/3.4ce83650.chunk.js",
+    "static/js/3.4ce83650.chunk.js.map": "/store_from_21-lesson/static/js/3.4ce83650.chunk.js.map",
+    "index.html": "/store_from_21-lesson/index.html",
+    "static/css/main.9c60dedd.chunk.css.map": "/store_from_21-lesson/static/css/main.9c60dedd.chunk.css.map",
+    "static/js/2.26a4bd87.chunk.js.LICENSE.txt": "/store_from_21-lesson/static/js/2.26a4bd87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36135a66.js",
+    "static/js/2.26a4bd87.chunk.js",
+    "static/css/main.9c60dedd.chunk.css",
+    "static/js/main.511ea445.chunk.js"
+  ]
+}
